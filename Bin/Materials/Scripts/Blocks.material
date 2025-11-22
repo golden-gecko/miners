@@ -1,0 +1,14 @@
+material Blocks
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+                filtering none
+				texture Blocks.png
+			}
+		}
+	}
+}
